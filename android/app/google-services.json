@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1014587332176",
+    "project_id": "wox-tasks",
+    "storage_bucket": "wox-tasks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014587332176:android:5b6e402b9d3bf82b1de355",
+        "android_client_info": {
+          "package_name": "com.armedjuror.my_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014587332176-34n0hr00u2ces29r31m34b5mfdg2h5bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.armedjuror.my_flutter_app",
+            "certificate_hash": "fdb825aaaa348eb75ae62f65cd406eec39ba3438"
+          }
+        },
+        {
+          "client_id": "1014587332176-qgstnumb3uosm1e0ruda7r93er8e1um3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHpju7VqG4tMWeQeZbjxStIf6jh79nSyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014587332176-qgstnumb3uosm1e0ruda7r93er8e1um3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
